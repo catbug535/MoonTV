@@ -1,3 +1,4 @@
+
 {
   "cache_time": 7200,
   "api_site": {
@@ -84,98 +85,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-    "快车资源网": {
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod",
-      "name": "快车资源网"
-    },
-    "金鹰资源采集网": {
-      "api": "https://jyzyapi.com/provide/vod",
-      "name": "金鹰资源采集网"
-    },
-    "淘片资源网": {
-      "api": "https://taopianapi.com/cjapi/mc/vod",
-      "name": "淘片资源网"
-    },
-    "牛牛资源网": {
-      "api": "https://api.niuniuzy.me/api.php/provide/vod",
-      "name": "牛牛资源网"
-    },
-    "麒麟资源网": {
-      "api": "https://www.qilinzyz.com/api.php/provide/vod",
-      "name": "麒麟资源网"
-    },
-    "豪华资源网": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "豪华资源网"
-    },
-    "速播资源网": {
-      "api": "https://subocj.com/api.php/provide/vod",
-      "name": "速播资源网"
-    },
-    "U酷资源网": {
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "name": "U酷资源网"
-    },
-    "索尼资源网": {
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "name": "索尼资源网"
-    },
-    "红牛资源网": {
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "name": "红牛资源网"
-    },
-    "光速资源网": {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "name": "光速资源网"
-    },
-    "虎牙资源网": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "name": "虎牙资源网"
-    },
-    "新浪资源网": {
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "name": "新浪资源网"
-    },
-    "火花资源网": {
-      "api": "https://cj.huohua.live/api.php/provide/vod",
-      "name": "火花资源网"
-    },
-    "饭团影视": {
-      "api": "https://www.fantuan.tv/api.php/provide/vod",
-      "name": "饭团影视"
-    },
-    "影视工厂": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "影视工厂"
-    },
-    "七七资源": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod",
-      "name": "七七资源"
-    },
-    "CK资源": {
-      "api": "https://ckzy.me/api.php/provide/vod",
-      "name": "CK资源"
-    },
-    "jkun资源": {
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "name": "jkun资源"
-    },
-    "百万资源": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "百万资源"
-    },
-    "souav资源": {
-      "api": "https://api.souavzy.vip/api.php/provide/vod",
-      "name": "souav资源"
-    },
-    "黄色仓库": {
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "name": "黄色仓库"
-    },
-    "玉兔资源": {
-      "api": "https://apiyutu.com/api.php/providedao/vod",
-      "name": "玉兔资源"  
     }
   }
 }

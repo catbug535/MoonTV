@@ -85,10 +85,6 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "18": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "18"
-    },
     "快车资源网": {
       "api": "https://caiji.kczyapi.com/api.php/provide/vod",
       "name": "快车资源网"
@@ -156,6 +152,30 @@
     "七七资源": {
       "api": "https://www.qiqidys.com/api.php/provide/vod",
       "name": "七七资源"
+    },
+    "CK资源": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "CK资源"
+    },
+    "jkun资源": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "jkun资源"
+    },
+    "百万资源": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源"
+    },
+    "souav资源": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "souav资源"
+    },
+    "黄色仓库": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄色仓库"
+    },
+    "玉兔资源": {
+      "api": "https://apiyutu.com/api.php/providedao/vod",
+      "name": "玉兔资源"  
     }
   }
 }
